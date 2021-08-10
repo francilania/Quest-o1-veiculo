@@ -95,3 +95,5 @@ public String getConsumo ( ) {
 return this.consumomedio;
 
 }
+
+}
